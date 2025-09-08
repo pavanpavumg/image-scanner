@@ -1,4 +1,4 @@
-# Scanner Web App (React + Firebase)
+<img width="1078" height="1400" alt="image" src="https://github.com/user-attachments/assets/909357cb-8fd5-4acf-bb01-048736453090" /># Scanner Web App (React + Firebase)
 
 A small React + Firebase app to upload images/PDFs, auto-detect document quadrilateral using OpenCV.js, perspective-correct the page, show before/after, and persist files + metadata in Firebase.
 
@@ -166,3 +166,8 @@ For issues and questions:
 ---
 
 Built with ❤️ using React and Firebase
+
+
+
+
+
